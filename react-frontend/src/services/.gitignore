@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java / Maven
+target/
+*.class
+
+# IDE / OS
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Env / secrets
+.env
+.env.*
